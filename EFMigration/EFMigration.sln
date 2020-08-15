@@ -7,11 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{49506634-1E9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{F4920E47-D7F9-4862-986B-2A271EE79267}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFMigration.Data", "src\EFMigration.Data\EFMigration.Data.csproj", "{E34420AD-CBA2-4ADA-B3CC-DCBF59AFDDA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFMigration.Data", "src\EFMigration.Data\EFMigration.Data.csproj", "{E34420AD-CBA2-4ADA-B3CC-DCBF59AFDDA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFMigration.Auto", "src\EFMigration.Auto\EFMigration.Auto.csproj", "{A65E84BC-9AA6-4DBB-8182-F42E5809DADD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFMigration.Auto", "src\EFMigration.Auto\EFMigration.Auto.csproj", "{A65E84BC-9AA6-4DBB-8182-F42E5809DADD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFMigration.Manually", "src\EFMigration.Manually\EFMigration.Manually.csproj", "{DF25FAD3-C573-420A-9F67-9AD67943A399}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFMigration.Manually", "src\EFMigration.Manually\EFMigration.Manually.csproj", "{DF25FAD3-C573-420A-9F67-9AD67943A399}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
